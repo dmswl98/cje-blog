@@ -9,6 +9,7 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "baseUrl": "./src",
+    "types": ["@emotion/react/types/css-prop"],
     "paths": {
       "components/*": ["./components/*"],
       "utils/*": ["./utils/*"],
